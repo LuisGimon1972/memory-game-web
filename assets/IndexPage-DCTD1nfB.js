@@ -1,0 +1,1 @@
+import{r as e,t}from"./MemoryMasterPage-CNQX83NC.js";import{E as n,I as r,T as i,V as a,x as o}from"./symbols-DvhJVYrT.js";var s=n({__name:`IndexPage`,setup(n){return(n,s)=>(r(),o(e,{class:`flex flex-center bg-green-10`},{default:a(()=>[i(t)]),_:1}))}});export{s as default};
